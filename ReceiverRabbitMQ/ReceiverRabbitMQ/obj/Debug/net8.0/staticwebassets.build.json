@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "74U6oFPddlcvrB8KBKhx660Yc1IRZ8jliozdm2IP0LU=",
+  "Source": "ReceiverRabbitMQ",
+  "BasePath": "_content/ReceiverRabbitMQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

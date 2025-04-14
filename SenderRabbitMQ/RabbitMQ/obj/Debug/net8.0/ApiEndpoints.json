@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RabbitMQ.Controllers.WeatherForecastController",
+    "Method": "Send",
+    "RelativePath": "WeatherForecast/send",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
