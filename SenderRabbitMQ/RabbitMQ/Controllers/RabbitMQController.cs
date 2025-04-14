@@ -8,7 +8,7 @@ namespace RabbitMQ.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class RabbitMQController : ControllerBase
     {
         [HttpGet("send")]
         public IActionResult Send()
