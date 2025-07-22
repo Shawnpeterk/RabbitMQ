@@ -20,8 +20,8 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Build RabbitMQ Service
-        run: dotnet build ./RabbitMQ/RabbitMQ.sln --configuration Release
+      - name: Build RabbitMQ 
+        run: dotnet build RabbitMQ.sln --configuration Release
 
       - name: Build ReceiverRabbitMQ Service
         run: dotnet build ./ReceiverRabbitMQ/ReceiverRabbitMQ.sln --configuration Release
